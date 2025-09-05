@@ -31,3 +31,4 @@ F:\Snehal\netcore\Lazyloading\testdemoazre\obj\Debug\net8.0\refint\testdemoazre.
 F:\Snehal\netcore\Lazyloading\testdemoazre\obj\Debug\net8.0\testdemoazre.pdb
 F:\Snehal\netcore\Lazyloading\testdemoazre\obj\Debug\net8.0\testdemoazre.genruntimeconfig.cache
 F:\Snehal\netcore\Lazyloading\testdemoazre\obj\Debug\net8.0\ref\testdemoazre.dll
+F:\Snehal\netcore\Lazyloading\testdemoazre\obj\Debug\net8.0\testdemoazre.sourcelink.json
